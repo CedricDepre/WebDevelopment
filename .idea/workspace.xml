@@ -25,18 +25,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo3/homepage/images&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo4/opdracht5/images",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo4\opdracht5\images" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo3\homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -55,6 +56,8 @@
       <workItem from="1664960662195" duration="3198000" />
       <workItem from="1664968024623" duration="5626000" />
       <workItem from="1665042975685" duration="2754000" />
+      <workItem from="1665409232784" duration="2000" />
+      <workItem from="1665557569660" duration="2635000" />
     </task>
     <servers />
   </component>
