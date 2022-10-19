@@ -1,0 +1,153 @@
+nav {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+/* Links inside the navbar */
+nav a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+nav a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+/* reset */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    min-height: 100vh;
+    padding: 20px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.block p {
+    color: #2e2e2e;
+    margin-bottom: 20px;
+}
+
+/* block-$ */
+.block .block-effect {
+    font-size: calc(8px + 6vw);
+}
+
+.block .block-reveal {
+    display: block;
+    --t: calc(var(--td) + var(--d));
+
+    color: transparent;
+    padding: 4px;
+
+    position: relative;
+    overflow: hidden;
+
+    animation: revealBlock 0s var(--t) forwards;
+}
+
+.block .block-reveal::after {
+    content: '';
+
+    width: 0%;
+    height: 100%;
+    padding-bottom: 4px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background: var(--bc);
+    animation: revealingIn var(--td) var(--d) forwards, revealingOut var(--td) var(--t) forwards;
+}
+
+/* animations */
+@keyframes revealBlock {
+    100% {
+        color: #0f0f0f;
+    }
+}
+
+@keyframes revealingIn {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 100%;
+    }
+}
+
+@keyframes revealingOut {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}

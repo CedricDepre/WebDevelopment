@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,16 +32,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo4/opdracht5/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo4\opdracht5\images" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo3\homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo3\homepage" />
     </key>
   </component>
@@ -58,7 +62,11 @@
       <workItem from="1665042975685" duration="2754000" />
       <workItem from="1665409232784" duration="2000" />
       <workItem from="1665557569660" duration="3600000" />
-      <workItem from="1666162731504" duration="3140000" />
+      <workItem from="1666162731504" duration="3565000" />
+      <workItem from="1666170322631" duration="3058000" />
+      <workItem from="1666177233635" duration="2698000" />
+      <workItem from="1666193427682" duration="2007000" />
+      <workItem from="1666198246562" duration="27000" />
     </task>
     <servers />
   </component>
