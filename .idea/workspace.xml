@@ -51,8 +51,11 @@
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo6\opdracht1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.opdracht6.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo6/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="opdracht1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo6/opdracht1/opdracht1.html" useBuiltInWebServerPort="true">
@@ -69,6 +72,7 @@
     </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.opdracht1.html" />
       <item itemvalue="JavaScript Debug.opdracht3.html" />
       <item itemvalue="JavaScript Debug.opdracht5.html" />
@@ -76,6 +80,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.opdracht6.html" />
         <item itemvalue="JavaScript Debug.opdracht5.html" />
         <item itemvalue="JavaScript Debug.opdracht3.html" />
