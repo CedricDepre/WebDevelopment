@@ -1,0 +1,35 @@
+@font-face { font-family: Helvetica;
+    src: url('helvetica.ttf'); }
+body{font-family: Helvetica}
+
+header{
+    background: #2B2D42;
+    padding: 30px;
+    margin-bottom: 10px
+}
+header p{
+    color: #EDF2F4;
+}
+p{
+    color: #8D99AE;
+}
+main{
+    padding: 30px;
+    background: #8D99AE;
+}
+footer{
+    background: #2B2D42;
+    padding: 30px;
+    margin-top: 10px
+}
+h1{
+    color: #EDF2F4;
+    font-size: 80px;
+}
+h2{
+    color: #EDF2F4;
+    font-size: 40px;
+}
+a{
+    color: #EF233C;
+}
