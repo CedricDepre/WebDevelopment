@@ -1,0 +1,49 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th{
+    background-color: blue;
+    color: black;
+    border: 1px solid black;
+}
+tr:first-child td{ /* dag titel */
+    background-color: darkblue;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+td:first-child{ /* zondag, weekend */
+    background-color:lightblue;
+}
+td:last-child{ /* zaterdag, weekend */
+    background-color: lightblue;
+}
+td{
+    border: thin dotted;
+   
+}
+tr:nth-child(2) td:first-child{ /* dag v vorige maand */
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(5){ /* dag v volgende maand */
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(6){ /* dag v volgende maand */
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(7){ /* dag v volgende maand */
+    background-color: #CCC;
+    color: darkgray;
+}
+
+#vrije_dag { /* vrije dag */
+    background-color: lightsalmon;
+}
+
+
