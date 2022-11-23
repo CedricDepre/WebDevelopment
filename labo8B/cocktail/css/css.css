@@ -1,0 +1,61 @@
+#main_container{
+    display: block;
+    width: 95%;
+    margin: auto;
+}
+header{
+    display: block;
+    text-align: center;
+    height: 130px;
+}
+header img{
+    height: 130px;
+}
+#float-right{
+    display: inline-block;
+    float: right;
+    box-sizing: border-box;
+    width: calc(30% - 30px);
+    border: #006699 1px solid;
+    text-align: center;
+    padding: 5px 50px;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+}
+#float-right img{
+    height: 50px;
+}
+#float-right a:hover {
+    background-color: saddlebrown;
+}
+#float-right > h2{
+    color: red;
+}
+#float-left{
+    display: inline-block;
+    width: 70%;
+}
+#guarantee{
+    background-color: #a7cece;
+    margin: 30px;
+    background-image: url("../images/background.gif");
+    background-repeat: no-repeat;
+    background-size: 50px;
+    padding: 20px 50px;
+    border: white 2px dotted;
+    line-height: 2;
+}
+li{
+    font-style: italic;
+}
+footer{
+    font-size: 0.6em;
+    text-align: center;
+    display: flex;
+    width: 95%;
+    justify-content: center;
+    align-content: end;
+}
+.gekleurde_titel{
+    color: #006699;
+}
