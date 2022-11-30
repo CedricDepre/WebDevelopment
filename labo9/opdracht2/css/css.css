@@ -14,14 +14,15 @@ span{
     font-weight: bold;
     font-style: italic;
 }
+/*plane*/
 header img{
-    float: right;
-    margin-right: 90px;
     margin-bottom: 60px;
     z-index: 5;
     position: absolute;
     top: 107px;
-
+    animation-name: fly;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
 header :first-child{
     font-size: 3em;
@@ -114,4 +115,22 @@ footer article:nth-child(2) a:hover{
 }
 footer div{
     text-align: center;
+}
+@keyframes fly {
+    0%{
+        right:  960px;
+    }
+    25%{
+        right: 1700px;
+    }
+    50%{
+        transform: scaleX(-1);
+    }
+    75%{
+        right:  960px;
+    }
+    100%{
+        right:  960px;
+        transform: scaleX(-1);
+    }
 }

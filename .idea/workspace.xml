@@ -53,8 +53,11 @@
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht_nature_blog\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo9/opdracht2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo9/opdracht1/index.html" useBuiltInWebServerPort="true">
@@ -74,6 +77,7 @@
     </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.loungestart.html" />
       <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html" />
@@ -81,11 +85,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.loungestart.html" />
         <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html (1)" />
-        <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +128,8 @@
       <workItem from="1669795511826" duration="5822000" />
       <workItem from="1669802866818" duration="2209000" />
       <workItem from="1669809749567" duration="3166000" />
+      <workItem from="1669813044284" duration="40000" />
+      <workItem from="1669813158411" duration="966000" />
     </task>
     <servers />
   </component>
