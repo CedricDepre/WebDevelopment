@@ -1,0 +1,55 @@
+body{
+    width: 960px;
+    margin: auto;
+}
+header{
+    height: 200px;
+    background: url("../fotos/bgsky3.jpg");
+    text-align: center;
+    color: darkblue;
+}
+header img{
+    float: right;
+    margin-right: 90px;
+    margin-bottom: 60px;
+    z-index: 5;
+    position: absolute;
+    top: 107px;
+
+}
+header :first-child{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
+header p{
+    font-size: 2.4em;
+    font-weight: bold;
+}
+aside{
+    width: 250px;
+    float: right;
+    background-color: #dddddd;
+    border: #999999 1px solid;
+    color: #666666;
+    font-size: 0.9em;
+}
+aside h3{
+    color: white;
+    background-color: blue;
+    font-size: 1.2em;
+    text-align: center;
+}
+main{
+    width: 700px;
+}
+main article div:first-child{
+    display: inline-block;
+    float: left;
+    margin-top: 20px;
+}
+main article div:nth-child(2){
+    display: inline-block;
+    float: right;
+    width: calc(100% - 80px - 40px);
+}

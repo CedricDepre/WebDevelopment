@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo8B&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -46,18 +46,18 @@
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo9\opdracht2\css" />
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo9\opdracht2" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo8B\lorerm_ipsum" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht_nature_blog\img" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht_nature_blog\css" />
-      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht_nature_blog" />
-      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\index.html" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.loungestart.html">
+  <component name="RunManager" selected="JavaScript Debug.airbus.html">
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo7/opdracht_kalander/index.html" useBuiltInWebServerPort="true">
+    <configuration name="airbus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo9/opdracht2/airbus.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo8/index.html" useBuiltInWebServerPort="true">
@@ -74,19 +74,19 @@
     </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="JavaScript Debug.airbus.html" />
       <item itemvalue="JavaScript Debug.loungestart.html" />
       <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html" />
       <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html (1)" />
       <item itemvalue="JavaScript Debug.index.html (5)" />
-      <item itemvalue="JavaScript Debug.index.html (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.airbus.html" />
         <item itemvalue="JavaScript Debug.loungestart.html" />
         <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html (1)" />
         <item itemvalue="JavaScript Debug.opdracht_lorem_ipsum.html" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
-        <item itemvalue="JavaScript Debug.index.html (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +121,8 @@
       <workItem from="1669137994231" duration="1143000" />
       <workItem from="1669190717257" duration="5083000" />
       <workItem from="1669212398348" duration="4973000" />
+      <workItem from="1669238324430" duration="320000" />
+      <workItem from="1669795511826" duration="5499000" />
     </task>
     <servers />
   </component>
