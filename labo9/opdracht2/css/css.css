@@ -1,12 +1,18 @@
 body{
     width: 960px;
     margin: auto;
+    box-shadow: grey 0 0 20px 20px
 }
 header{
     height: 200px;
     background: url("../fotos/bgsky3.jpg");
     text-align: center;
     color: darkblue;
+}
+span{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
 }
 header img{
     float: right;
@@ -33,6 +39,10 @@ aside{
     border: #999999 1px solid;
     color: #666666;
     font-size: 0.9em;
+    padding-right: 10px;
+}
+aside p{
+    padding-left: 10px;
 }
 aside h3{
     color: white;
@@ -43,6 +53,10 @@ aside h3{
 main{
     width: 700px;
 }
+main article{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
 main article div:first-child{
     display: inline-block;
     float: left;
@@ -52,4 +66,52 @@ main article div:nth-child(2){
     display: inline-block;
     float: right;
     width: calc(100% - 80px - 40px);
+    margin-left: 20px;
+}
+
+.galery{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 10px 10px;
+    background-color: #999999;
+
+}
+
+.galery .foto{
+    height: 180px;
+    width: 180px;
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    border: black dotted 2px;
+
+}
+footer section{
+    height: 230px;
+    background-color: #666666;
+    color: white;
+}
+footer article{
+    line-height: 2em;
+    color: white;
+}
+footer article:first-child{
+    display: inline-block;
+    float: left;
+    margin-left: 120px;
+}
+footer article:nth-child(2){
+   display: inline-block;
+    float: left;
+    margin-left: 120px;
+    text-decoration-style: unset;
+}
+footer article:nth-child(2) a{
+    color: white;
+}
+footer article:nth-child(2) a:hover{
+    color: red;
+}
+footer div{
+    text-align: center;
 }
