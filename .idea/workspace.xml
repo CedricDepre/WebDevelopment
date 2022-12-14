@@ -26,24 +26,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo10/opdracht4/css",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric_school/OneDrive - Hogeschool VIVES/Documenten/html/github/WebDevelopment/labo11/css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo11\css" />
+      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo11" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo10\opdracht4\css" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo10\opdracht4" />
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo8B" />
-      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht_kalander" />
-      <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo7\opdracht2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Cedric_school\OneDrive - Hogeschool VIVES\Documenten\html\github\WebDevelopment\labo9\opdracht2\css" />
@@ -57,39 +57,42 @@
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
       <method v="2" />
     </configuration>
-    <configuration name="index.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo10/opdracht2/index.htm" useBuiltInWebServerPort="true">
+    <configuration name="exercise1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo11/exercise1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo10/opdracht3/index.html" useBuiltInWebServerPort="true">
+    <configuration name="exercise4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo11/exercise4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo10/opdracht4/index.html" useBuiltInWebServerPort="true">
+    <configuration name="exercise5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo11/exercise5.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="extra.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo11/extra.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo9/opdracht2/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo10/opdracht2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="oef1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo10/oef1.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevelopment/labo9/opdracht2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
-      <item itemvalue="JavaScript Debug.index.html (3)" />
-      <item itemvalue="JavaScript Debug.index.htm" />
-      <item itemvalue="JavaScript Debug.index.html (2)" />
-      <item itemvalue="JavaScript Debug.oef1.html" />
+      <item itemvalue="JavaScript Debug.exercise1.html" />
+      <item itemvalue="JavaScript Debug.exercise4.html" />
+      <item itemvalue="JavaScript Debug.exercise5.html" />
+      <item itemvalue="JavaScript Debug.extra.html" />
       <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.htm" />
-        <item itemvalue="JavaScript Debug.oef1.html" />
+        <item itemvalue="JavaScript Debug.extra.html" />
+        <item itemvalue="JavaScript Debug.exercise4.html" />
+        <item itemvalue="JavaScript Debug.exercise5.html" />
+        <item itemvalue="JavaScript Debug.exercise1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +135,10 @@
       <workItem from="1669813158411" duration="966000" />
       <workItem from="1669833695215" duration="743000" />
       <workItem from="1670401874821" duration="3317000" />
-      <workItem from="1670414718946" duration="3154000" />
+      <workItem from="1670414718946" duration="3643000" />
+      <workItem from="1670849796945" duration="84000" />
+      <workItem from="1671004918565" duration="5091000" />
+      <workItem from="1671012248845" duration="1253000" />
     </task>
     <servers />
   </component>
